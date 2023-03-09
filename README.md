@@ -32,3 +32,9 @@ videos
 
 atenção nos updates que podemr tavar o boot do high sierra sendo necessária a reinicialização.
 
+https://discord.com/channels/887798875069505587/946510034437824582/946511625408610334
+
+caso trave propertree edit o pslist
+
+secure boot
+
