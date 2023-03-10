@@ -21,12 +21,15 @@ Pop-OS 20.04 LTS
 11. desmontar o disco externo
 
 Download da Quick Action para montar a EFI:
-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblpSSk5TRnA5NHVyWFlqOUtqbXVLY0g2UDVzd3xBQ3Jtc0tsOXJqelAwd3hKd0RWN1A5RFE2cEJNZTd4aU8yTUpRRlJNblpqazNoMDVkS0F6V0xEMVQ1QklrZENnYjZRLVUxLUdkQnVYaFJwZ3NlMjEzaGdiY29RdExoeWNNclBhZEVBT0JYOUhtY1poMGg1SU5jVQ&q=https%3A%2F%2Fgithub.com%2Fluchina-gabriel%2Fyoutube-files%2Fraw%2Fmain%2FMountEFI.zip&v=AnOt5wqm6-U
+
 
 
 videos
 
 1) HACKINTOSH: COMO FAZER DUAL BOOT QUANDO JÁ TEMOS O WINDOWS INSTALADO https://youtu.be/AnOt5wqm6-U
+
+HACKINTOSH: Como INSTALAR e USAR o ProperTree
+https://youtu.be/ruWKu50JVEI
 
 2) Como instalar DRIVER da NVIDIA para seu HACKINTOSH em 2022! Nem tudo está perdido para a NVIDIA! https://youtu.be/VRxOzoZajEQ
 
